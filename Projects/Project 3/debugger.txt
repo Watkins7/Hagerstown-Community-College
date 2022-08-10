@@ -1,0 +1,5 @@
+Loop counter 1 ("if") is: 2
+Loop counter 2 ("for" is: 0
+Loop counter 3 ("single loop counter") is: 2
+
+The program took this amount of time: 9524455200 nanoseconds or 9 seconds
